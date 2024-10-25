@@ -18,8 +18,7 @@
 사용자가 필요로하는 조건을 선택하여 맞춤화된 정보를 검색하여 출력할 수 있다.
  9. 북마크 기능을 통해 사용자가 원하는 정보만을 관리할 수 있다.
 
-## ![image](https://github.com/user-attachments/assets/d0869695-2a3a-4aaa-9152-f3750630ed07)
-## ![image](https://github.com/user-attachments/assets/bd9f5439-d80c-489d-a552-41896e0ddcdb)
+![image](https://github.com/user-attachments/assets/d0869695-2a3a-4aaa-9152-f3750630ed07) ![image](https://github.com/user-attachments/assets/bd9f5439-d80c-489d-a552-41896e0ddcdb)
 
 차례대로 삽입, 수정, 삭제, 검색 기능의 인터페이스이며, 새로운 정보를 삽입하기 위해서는 
 ID, 이름, 지역, 테마, 계절, 설명, 점수, 날짜를 입력이나 선택하여 입력 버튼을 누르면 된다. 
